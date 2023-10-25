@@ -4,6 +4,7 @@ import mlogs
 #    filename="test.log", 
 #    level=logging.INFO,
 #    format="%(asctime)s:%(levelname)s:%(message)s"
+#    Añadimos línea de texto en el comentario MAIN
 #    )
 logger = mlogs.get_logger("experimental")
 
