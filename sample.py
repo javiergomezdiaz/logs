@@ -1,7 +1,7 @@
 import mlogs
 
 # logging.basicConfig(
-#    filename="test.log", 
+#    filename="test1.log", 
 #    level=logging.INFO,
 #    format="%(asctime)s:%(levelname)s:%(message)s"
 #    )
